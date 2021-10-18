@@ -1,2 +1,2 @@
-# Pyspark-Flower-Classification
-Pyspark Flower Classification with Efficient B0 Featurizer and Linear Classification Model (End)
+# Pyspark-ML
+Pyspark Machine Learning with Image Classification and Tabular Data Regression (End)
